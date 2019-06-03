@@ -23,6 +23,9 @@ const App: React.FC = () => {
       <section>
         hello world!
       </section>
+      <section>
+        welcome to beijing!
+      </section>
     </div>
   );
 }
