@@ -20,6 +20,9 @@ const App: React.FC = () => {
           Learn React
         </a>
       </header>
+      <section>
+        hello world!
+      </section>
     </div>
   );
 }
