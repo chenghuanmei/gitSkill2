@@ -20,7 +20,6 @@ const App: React.FC = () => {
           Learn React
         </a>
       </header>
-     <p>hello everybody!</p>
     </div>
   );
 }
