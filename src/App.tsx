@@ -19,6 +19,10 @@ const App: React.FC = () => {
         >
           Learn React
         </a>
+       <section>
+        <p>learn English!</p>
+        <p>Love is a touch and yet not a touch.——Jerome David Salinger</p>
+       </section>
       </header>
     </div>
   );
